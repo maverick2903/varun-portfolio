@@ -43,24 +43,24 @@ export default function ProjectsPage() {
       technologies: ["Python", "pytest", "Jupyter", "ML"],
       category: "research",
     },
-    {
-      id: "cibil-report",
-      title: "CIBIL Report Generator",
-      description:
-        "Automated CIBIL Report generation using optimized LLM-driven pipeline, reducing generation time and enhancing accuracy with JSON-based context processing.",
-      image: "/placeholder.svg?height=400&width=600",
-      technologies: ["Python", "LLM", "JSON", "Automation"],
-      category: "ml",
-    },
-    {
-      id: "hr-chatbot",
-      title: "HR AI Chatbot",
-      description:
-        "Enhanced HR AI Chatbot by integrating advanced conversational memory, improving context retention and accuracy in chatbot responses.",
-      image: "/placeholder.svg?height=400&width=600",
-      technologies: ["Python", "LLM", "NLP", "Chatbot"],
-      category: "ml",
-    },
+    // {
+    //   id: "cibil-report",
+    //   title: "CIBIL Report Generator",
+    //   description:
+    //     "Automated CIBIL Report generation using optimized LLM-driven pipeline, reducing generation time and enhancing accuracy with JSON-based context processing.",
+    //   image: "/placeholder.svg?height=400&width=600",
+    //   technologies: ["Python", "LLM", "JSON", "Automation"],
+    //   category: "ml",
+    // },
+    // {
+    //   id: "hr-chatbot",
+    //   title: "HR AI Chatbot",
+    //   description:
+    //     "Enhanced HR AI Chatbot by integrating advanced conversational memory, improving context retention and accuracy in chatbot responses.",
+    //   image: "/placeholder.svg?height=400&width=600",
+    //   technologies: ["Python", "LLM", "NLP", "Chatbot"],
+    //   category: "ml",
+    // },
   ]
 
   const categories = [
